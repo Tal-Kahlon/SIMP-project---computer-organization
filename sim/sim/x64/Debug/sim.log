@@ -1,0 +1,21 @@
+﻿  sim.c
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(6,30): warning C4081: expected 'newline'; found ';'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(13,22): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(13,22): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(39,18): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(39,18): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(44,25): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(44,25): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(247,72): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(247,68): warning C4024: 'print_to_hwregtrace_leds_display7seg_and_update_monitor': different types for formal and actual parameter 1
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(253,72): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(253,68): warning C4024: 'print_to_hwregtrace_leds_display7seg_and_update_monitor': different types for formal and actual parameter 1
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(291,12): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[500]'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(291,8): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(292,22): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[500]'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(292,18): warning C4024: 'atoi': different types for formal and actual parameter 1
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(300,15): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[500]'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(300,11): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(301,21): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[500]'
+C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\sim\sim.c(301,17): warning C4024: 'atoi': different types for formal and actual parameter 1
+  sim.vcxproj -> C:\Users\talka\OneDrive\שולחן העבודה\לימודים\שנה ג\סמסטר ב\מבנה המחשב\פרוייקט\sim\x64\Debug\sim.exe
